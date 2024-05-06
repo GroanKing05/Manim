@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/varun/OneDrive/Documents/Sem2/Manim/media/videos/intro1/1080p60/partial_movie_files/Intro1/3977891868_2354045963_223132457.mp4'
+file 'file:C:/Users/varun/OneDrive/Documents/Sem2/Manim/media/videos/intro1/1080p60/partial_movie_files/Intro1/2852726489_120542827_2907836579.mp4'
+file 'file:C:/Users/varun/OneDrive/Documents/Sem2/Manim/media/videos/intro1/1080p60/partial_movie_files/Intro1/2852726489_3226788978_349071046.mp4'
+file 'file:C:/Users/varun/OneDrive/Documents/Sem2/Manim/media/videos/intro1/1080p60/partial_movie_files/Intro1/2852726489_2827708388_877855717.mp4'

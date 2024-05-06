@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/varun/OneDrive/Documents/Sem2/Manim/media/videos/function/1080p60/partial_movie_files/AnimatedRationalFunctionPlot/3977891868_2489052087_2183533570.mp4'
+file 'file:C:/Users/varun/OneDrive/Documents/Sem2/Manim/media/videos/function/1080p60/partial_movie_files/AnimatedRationalFunctionPlot/2852726489_872358565_2643427666.mp4'

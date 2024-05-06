@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/varun/OneDrive/Documents/Sem2/Manim/media/videos/intro2/1080p60/partial_movie_files/QuoteScene/3977891868_1538767474_223132457.mp4'
+file 'file:C:/Users/varun/OneDrive/Documents/Sem2/Manim/media/videos/intro2/1080p60/partial_movie_files/QuoteScene/2852726489_2354374403_1923444821.mp4'
+file 'file:C:/Users/varun/OneDrive/Documents/Sem2/Manim/media/videos/intro2/1080p60/partial_movie_files/QuoteScene/2852726489_2931911729_3315650444.mp4'
+file 'file:C:/Users/varun/OneDrive/Documents/Sem2/Manim/media/videos/intro2/1080p60/partial_movie_files/QuoteScene/2852726489_1141282389_1800715601.mp4'
+file 'file:C:/Users/varun/OneDrive/Documents/Sem2/Manim/media/videos/intro2/1080p60/partial_movie_files/QuoteScene/2852726489_1944693493_1646726639.mp4'
